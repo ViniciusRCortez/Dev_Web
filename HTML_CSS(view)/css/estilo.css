@@ -1,0 +1,11 @@
+table {
+    width:100%;
+    border:1;
+    style:background-color:rgb(255,250,120);
+    border-color:yellow;
+}
+th {
+    width:25%;
+    align:center;
+    valign:center;
+}
